@@ -1,4 +1,3 @@
-# Banking_Domain_project
 # Banking Domain Analysis Project
 
 ## Project Overview
